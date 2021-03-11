@@ -1,4 +1,4 @@
-# JPEG-Encoder
+# JPEG-Encoder-CPU
 Trabalho de conclusão de curso 2, compactação de imagens para o padrão JPEG usando código em serial.
 
 Necessário a instalação da biblioteca opencv.
